@@ -1,0 +1,92 @@
+.d1{
+
+    text-align: center;
+}
+
+.bt2{
+
+    
+float: right;
+   
+    outline: 0;
+    text-align: center;
+    cursor: pointer;
+    padding: 10px 20px;
+    border: 0;
+    color: #fff;
+    font-size: 17.5px;
+    border: 2px solid transparent;
+    border-color: #000;
+    color: #000;
+    background: transparent;
+    font-weight: 800;
+    line-height: 30px;
+    transition: background,color .1s ease-in-out;
+    
+    
+
+
+
+}
+.bt2:hover{
+
+   
+        background-color: #000;
+        color: #fff;
+
+}
+
+
+.bt{
+
+    
+    float: left;
+       
+        outline: 0;
+        text-align: center;
+        cursor: pointer;
+        padding: 10px 20px;
+        border: 0;
+        color: #fff;
+        font-size: 17.5px;
+        border: 2px solid transparent;
+        border-color: #000;
+        color: #000;
+        background: transparent;
+        font-weight: 800;
+        line-height: 30px;
+        transition: background,color .1s ease-in-out;
+        
+        
+    
+    
+    
+    }
+    .bt:hover{
+    
+       
+            background-color: #000;
+            color: #fff;
+    
+    }
+
+ 
+.h{
+
+
+        text-align: center;
+        font-size: 70px;
+        font-weight: 600;
+        color: #fdfdfe;
+        text-shadow: 0px 0px 5px #b393d3, 0px 0px 10px #b393d3, 0px 0px 10px #b393d3,
+          0px 0px 20px #b393d3;
+
+         font-family: sans-serif; 
+      
+}    
+
+
+body{
+
+  background-color: #301934;
+}
